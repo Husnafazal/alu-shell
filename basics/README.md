@@ -17,4 +17,6 @@ created a script that creates a directory named my_first_directory in the /tmp/ 
 ### 8-firstdelete
 deleted the file betty
 ### 9-firstdirdeletion
-deleted my_first_directory 
+deleted my_first_directory
+### 10-back 
+changed to working directory to the previous one  
