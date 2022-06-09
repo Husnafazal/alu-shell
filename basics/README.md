@@ -8,3 +8,5 @@ it changes the current directory to home directory
 diplays the curent directory in long format
 ### 4-listmorefiles 
 displays the current  directory contents, including hidden files (starting with .). Use the long format.
+### 5-listfilesdigitonly
+ Display current directory contentin Long format with user and group IDs displayed numerically And hidden files (starting with .)
