@@ -14,3 +14,5 @@ displays the current  directory contents, including hidden files (starting with 
 created a script that creates a directory named my_first_directory in the /tmp/ directory
 ### 7-movethatfile
  Moved the file betty from /tmp/ to /tmp/my_first_directory
+### 8-firstdelete
+deleted the file betty 
