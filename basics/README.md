@@ -25,4 +25,6 @@ Wrote a script that lists all files (even ones with names beginning with a perio
 ### 12-file_type
 printed the type of file
 ### 13-symbolic_link
-Created a symbolic link to /bin/ls, named __ls__
+Created a symbolic link to /bin/ls, named __ls_
+###14-copy_html
+created a script that copies all html files for the current working directory to the working directories 
