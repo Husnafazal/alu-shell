@@ -6,3 +6,5 @@ display the content list of your current directory
 it changes the current directory to home directory 
 ### 3-listfiles
 diplays the curent directory in long format
+### 4-listmorefiles 
+displays the current  directory contents, including hidden files (starting with .). Use the long format.
